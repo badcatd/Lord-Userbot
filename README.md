@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LORD USERBOT" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LEBAH USERBOT" /></a>
 
 
 <p align="center">
@@ -11,19 +11,19 @@
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+# Lebah Userbot
+![Lebah Userbot Logo](https://telegra.ph/file/e6b7bf99065058b1b969d.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+### Repo Lebah Userbot
+Repo Yang Dibuat [Lebah](https://t.me/bluuebluesky) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+Caranya Pergi Ke Grup Support Lebah-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
 
@@ -40,7 +40,7 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup Lord Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
+Atau Bisa Gabung Ke Grup Lebah Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
 ## <p align="center">DEPLOY LORD-USERBOT</p>
 
 
